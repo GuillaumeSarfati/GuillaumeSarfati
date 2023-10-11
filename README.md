@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GuillaumeSarfati
-- 👀 I’m interested in finance, startup and accounting
-- 🌱 I’m currently learning accounting
-- 💞️ I’m looking to collaborate on [Kontable](https://kontable.fr)
+- 👀 I’m interested in automatation, growth and lead generation
+- 💞️ I’m looking to collaborate on [Salssy](https://salssy.com)
 - 📫 How to reach me +33 7 66 28 27 54 
 
 <!---
